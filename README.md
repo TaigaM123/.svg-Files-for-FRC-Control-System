@@ -18,7 +18,7 @@ Required apps:
 4. In the dropdown on the top center, select "TechDraw". 
 5. Go to Edit > Preferences > TechDraw, and set "Default Template" to the blank .svg file
 6. Apply settings, and "Insert Default Page" (![Insert Default Page](https://wiki.freecadweb.org/images/9/9a/TechDraw_PageDefault.svg)). 
-7. On the left-hand sidebar, select the Part you imported (it should highlight blue), and then hit "Insert View" (![Insert View](https://wiki.freecadweb.org/images/3/31/TechDraw_View.svg)). 
+7. On the left-hand sidebar, select the Part (it might be multiple parts, in which case Shift+Click all of them) you imported (it should highlight blue), and then hit "Insert View" (![Insert View](https://wiki.freecadweb.org/images/3/31/TechDraw_View.svg)). 
     1. And wait some more...
 9. Head back to the TechDraw, and right-click on the work area (yes, it might be blank), and select "Export as SVG". 
 10. Name your SVG and hit "Export"
