@@ -11,9 +11,9 @@ Required apps:
 * A blank .svg file (included in this GitHub repository)
 
 1. Download the STEP files for components. I used [MKCad](https://onshape4frc.com/cad-library) for this, but downloading from [CTRE](https://github.com/CrossTheRoadElec/Device-CADs)'s, [REV](https://docs.revrobotics.com/docs/rev-ion)'s, and [VEX](https://www.vexrobotics.com/pro)'s websites also works. 
-  1a. Make or download the blank .svg file
+    1a. Make or download the blank .svg file
 2. Open FreeCAD, select "Create new...", then select File > Import and the STEP File
-  2a. Wait for the file to be imported
+    2a. Wait for the file to be imported
 3. Use the cube in the top left to spin the part into the orientation you want. 
 4. In the dropdown on the top center, select "TechDraw". 
 5. Go to Edit > Preferences > TechDraw, and set "Default Template" to the blank .svg file
