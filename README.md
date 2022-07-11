@@ -23,4 +23,5 @@ Required apps:
 9. Head back to the TechDraw, and right-click on the work area (yes, it might be blank), and select "Export as SVG". 
 10. Name your SVG and hit "Export"
     1. Depending on your OS, you might need to manually append ".svg" to the file name. 
-11. Open the file in Inkscape and shrink it down so it fits into the rectangle between (0,0) and (300,150). (Drag a corner while hitting Ctrl). 
+11. Open the file in Inkscape and shrink it down so it fits into the rectangle between (0,0) and (300,150). (Drag a corner while hitting Ctrl). Save this. 
+12. Repeat these steps (skipping step 6) as many times as needed.
