@@ -10,7 +10,7 @@ Required apps:
 * [Inkscape](https://inkscape.org)
 * A blank .svg file (included in this GitHub repository)
 
-1. Download the STEP files for components. I used [MKCad](https://onshape4frc.com/cad-library) for this, but downloading from [CTRE](https://github.com/CrossTheRoadElec/Device-CADs)'s, [REV](https://docs.revrobotics.com/docs/rev-ion)'s, and [VEX](https://www.vexrobotics.com/pro)'s websites also works. 
+1. Download the STEP files for components. I used [MKCad](https://onshape4frc.com/cad-library) for this, but downloading from [CTRE](https://github.com/CrossTheRoadElec/Device-CADs)'s, [REV](https://docs.revrobotics.com/docs/rev-ion)'s, and [VEX](https://www.vexrobotics.com/pro)'s websites also works. Note that MKCad has smaller .step files than downloading from REV. 
     1. Make or download the blank .svg file
 2. Open FreeCAD, select "Create new...", then select File > Import and the STEP File
     2. Wait for the file to be imported
