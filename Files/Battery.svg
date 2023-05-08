@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" x="0in" height="2.1794651in" viewBox="0 0 5383.1067 2179.465" y="0in" version="1.2" id="svg35576"  width="5.3831067in" gorn="0">
+    <desc >
+        <referenceFile >12v_battery_breadboard.svg</referenceFile>
+    </desc>
+    <defs id="defs35580" />
+    <g  transform="translate(2365.0532,652.40792)">
+        <g >
+            <g id="breadboard"  gorn="0.2.0.0">
+                <rect height="2170.9656" x="-2360.8035" y="-648.15814" style="stroke-linecap:round;stroke-dasharray:none;stop-color:#000000" stroke="#000000" ry="55.936176" stroke-opacity="1" id="rect36840"  width="5374.6069" fill="#7d7a7a" gorn="0.2.0.0.0" stroke-width="8.49955" fill-opacity="1"/>
+                <rect height="475.26538" x="-864.59766" y="1034.7921" style="stroke-linecap:round;stroke-dasharray:none;stop-color:#000000" stroke="none" ry="55.936169" stroke-opacity="1" id="rect39499"  width="2382.1951" fill="#989494" gorn="0.2.0.0.1" stroke-width="8.49955" fill-opacity="1"/>
+                <rect height="1711.9857" x="-2335.3049" y="-622.65942" style="stroke-linecap:round;stop-color:#000000" ry="55.936176" id="rect39443"  width="5323.6099" fill="#989494" gorn="0.2.0.0.2" stroke-width="6.11967" fill-opacity="1"/>
+                <rect height="310.97623" x="-2212.2209" y="1151.6823" style="stroke-linecap:round;stroke-dasharray:none;stop-color:#000000" stroke="none" ry="32.466248" stroke-opacity="1" id="rect40417"  width="839.04895" fill="#000000" gorn="0.2.0.0.3" stroke-width="8.49955" fill-opacity="1"/>
+                <rect height="264.03635" x="-1959.9194" y="1175.152" style="stroke-linecap:round;stroke-dasharray:none;stop-color:#000000" stroke="none" ry="0" stroke-opacity="1" id="rect41405"  width="129.08444" fill="#808080" gorn="0.2.0.0.4" stroke-width="8.49955" fill-opacity="1"/>
+                <rect height="264.03644" x="-1830.835" y="1175.152" style="stroke-linecap:round;stroke-dasharray:none;stop-color:#000000" stroke="none" ry="0" stroke-opacity="1" id="rect41459"  width="218.32942" fill="#999999" gorn="0.2.0.0.5" stroke-width="8.49955" fill-opacity="1"/>
+                <ellipse style="stroke-linecap:round;stroke-dasharray:none;stop-color:#000000" cx="-1711.4111" stroke="none" cy="1303.0216" ry="72.329063" stroke-opacity="1" id="path41513"  fill="#dfdfdf" gorn="0.2.0.0.6" rx="46.9398" stroke-width="8.49955" fill-opacity="1"/>
+                <ellipse style="stroke-linecap:round;stroke-dasharray:none;stop-color:#000000" cx="-1700.7363" stroke="none" cy="1307.1703" ry="72.329063" stroke-opacity="1" id="ellipse41671"  fill="#000000" gorn="0.2.0.0.7" rx="46.9398" stroke-width="8.49955" fill-opacity="1"/>
+                <rect height="264.58954" x="-1612.5056" y="1175.152" style="stroke-linecap:round;stroke-dasharray:none;stop-color:#000000" stroke="none" stroke-opacity="1" id="rect41794"  width="11.546999" fill="#6c6c6c" gorn="0.2.0.0.8" stroke-width="8.49955" fill-opacity="1"/>
+                <g  transform="scale(-1,1)">
+                    <g >
+                        <rect height="310.97623" x="-2846.8479" y="1151.6823" style="stroke-linecap:round;stroke-dasharray:none;stop-color:#000000" stroke="none" ry="32.466248" stroke-opacity="1" id="rect41952"  width="839.04895" fill="#ae0000" gorn="0.2.0.0.9.0.0" stroke-width="8.49955" fill-opacity="1"/>
+                    </g>
+                </g>
+                <g  transform="scale(-1,1)">
+                    <g >
+                        <rect height="264.03635" x="-2584.5347" y="1175.152" style="stroke-linecap:round;stroke-dasharray:none;stop-color:#000000" stroke="none" ry="0" stroke-opacity="1" id="rect41954"  width="129.08444" fill="#777777" gorn="0.2.0.0.10.0.0" stroke-width="8.49955" fill-opacity="1"/>
+                    </g>
+                </g>
+                <g  transform="scale(-1,1)">
+                    <g >
+                        <rect height="264.03644" x="-2465.4622" y="1175.152" style="stroke-linecap:round;stroke-dasharray:none;stop-color:#000000" stroke="none" ry="0" stroke-opacity="1" id="rect41956"  width="218.32942" fill="#898989" gorn="0.2.0.0.11.0.0" stroke-width="8.49955" fill-opacity="1"/>
+                    </g>
+                </g>
+                <g  transform="scale(-1,1)">
+                    <g >
+                        <ellipse style="stroke-linecap:round;stroke-dasharray:none;stop-color:#000000" cx="-2346.0381" stroke="none" cy="1303.0216" ry="72.329063" stroke-opacity="1" id="ellipse41958"  fill="#dfdfdf" gorn="0.2.0.0.12.0.0" rx="46.9398" stroke-width="8.49955" fill-opacity="1"/>
+                    </g>
+                </g>
+                <g  transform="scale(-1,1)">
+                    <g >
+                        <ellipse style="stroke-linecap:round;stroke-dasharray:none;stop-color:#000000" cx="-2335.3633" stroke="none" cy="1307.1703" ry="72.329063" stroke-opacity="1" id="ellipse41960"  fill="#ae0000" gorn="0.2.0.0.13.0.0" rx="46.9398" stroke-width="8.49955" fill-opacity="1"/>
+                    </g>
+                </g>
+                <g  transform="scale(-1,1)">
+                    <g >
+                        <rect height="264.58954" x="-2247.1313" y="1175.152" style="stroke-linecap:round;stroke-dasharray:none;stop-color:#000000" stroke="none" stroke-opacity="1" id="rect41962"  width="11.546999" fill="#bbbbbb" gorn="0.2.0.0.14.0.0" stroke-width="8.49955" fill-opacity="1"/>
+                    </g>
+                </g>
+                <rect height="115.25425" x="2272.2351" y="1252.6769" style="stroke-linecap:round;stroke-dasharray:none;stop-color:#000000" stroke="none" stroke-opacity="1" id="connector1pin"  width="135.59323" fill="none" gorn="0.2.0.0.15" stroke-width="13.8889" fill-opacity="1"/>
+                <rect height="115.25425" x="-1769.4335" y="1252.6769" style="stroke-linecap:round;stroke-dasharray:none;stop-color:#000000" stroke="none" stroke-opacity="1" id="connector0pin"  width="135.59323" fill="none" gorn="0.2.0.0.16" stroke-width="13.8889" fill-opacity="1"/>
+            </g>
+        </g>
+    </g>
+</svg>

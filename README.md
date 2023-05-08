@@ -1,8 +1,11 @@
 # .svg-Files-for-FRC-Control-System
 Components for the FIRST Robotics Competition, in .svg format. Use these to make wiring diagrams. 
 
+Many files (all modified or added parts in commit #30) are taken from https://github.com/AronRubin/FRCFritzingParts. Thank you AronRubin!
+
 ## How to convert .step files to .svg files
-I'm sure there's a *much* simple and easier way to do this, but here's how I did it. (Kubuntu 22.04, FreeCAD 0.20.0, Inkscape 1.1.2)
+For files not from AronRubin, I used the following process.
+I'm sure there's a *much* simpler and easier way to do this, but here's how I did it. (Kubuntu 22.04, FreeCAD 0.20.0, Inkscape 1.1.2)
 
 Required apps:
 * An Onshape account - Semi-optional, although it does make life easier
@@ -10,7 +13,7 @@ Required apps:
 * [Inkscape](https://inkscape.org)
 * A blank .svg file (included in this GitHub repository)
 
-1. Download the STEP files for components. I used [MKCad](https://onshape4frc.com/cad-library) for this, but downloading from [CTRE](https://github.com/CrossTheRoadElec/Device-CADs)'s, [REV](https://docs.revrobotics.com/docs/rev-ion)'s, and [VEX](https://www.vexrobotics.com/pro)'s websites also works. Note that MKCad has smaller .step files than downloading from REV. 
+1. Download the STEP files for components. I used [MKCad](https://onshape4frc.com/cad-library) for this, but downloading from [CTRE](https://github.com/CrossTheRoadElec/Device-CADs)'s, [REV](https://docs.revrobotics.com/docs/rev-ion)'s, and [Andymark](https://andymark.com)'s websites also works. Note that MKCad has smaller .step files than downloading from REV.
     1. Make or download the blank .svg file
 2. Open FreeCAD, select "Create new...", then select File > Import and the STEP File
     2. Wait for the file to be imported

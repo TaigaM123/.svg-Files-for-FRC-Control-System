@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="273.6" height="123.84"  viewBox="0 0 2850.001 1289.724">
+    <desc>
+        <referenceFile>TalonSRX_1_icon.svg</referenceFile>
+    </desc>
+    <style><![CDATA[.B{stroke:#000}.C{stroke-width:20}.D{fill:none}.E{stroke-width:10}.F{fill:#141414}.G{fill:#8c8663}.H{fill:#b8af82}.I{fill:#5e5b43}.J{fill:#9a916c}.K{font-size:60px}.L{font-family:Droid Sans}.M{stroke:#58595b}.N{stroke:#4d4d4d}.O{stroke-width:13.889}.P{stroke-width:11.944}.Q{stroke-width:4.99}]]></style>
+    <g class="E">
+        <path d="M61.846 50.847l51.215-47.17" class="B D"/>
+        <path d="M63.458 54.1h2739.584v1182.917H63.458z" class="N" fill="#b3b3b3"/>
+    </g>
+    <path d="M2709.154 301.053h86.11v86.11h-86.11z" class="M O" fill="#fff200"/>
+    <path d="M2786.886 744.314V544.106" stroke-width="24" class="N" fill="#999"/>
+    <path d="M61.596 90.867l51.218-47.17" class="B D E"/>
+    <g stroke-width="1" stroke="gray" fill="gray">
+        <g transform="matrix(.728594 -.684945 -.054655 .998505 0 0)">
+            <path d="M103.437 128.507h53.025v16.518h-53.025z" class="P"/>
+        </g>
+        <g transform="matrix(.618044 .786143 .595826 -.803113 0 0)">
+            <path d="M2301.488 2224.57h72.843v16.01h-72.843z" class="E"/>
+        </g>
+    </g>
+    <g class="B E">
+        <path d="M112.667 6.098H2758.23v38.22H112.667z" fill="#4d4d4d"/>
+        <path d="M2759.558 4.106l47.17 51.22m-48.386-12.914l47.17 51.218M61.596 1238.876l51.218 47.17" class="D"/>
+    </g>
+    <g transform="matrix(.618044 -.786143 .595826 .803113 0 0)">
+        <path d="M1504.672 3051.107h72.843v16.01h-72.843z" class="E" stroke-width="1" stroke="gray" fill="gray"/>
+    </g>
+    <path d="M112.668 1284.198h2645.564v-41.346H112.668z" class="B E" fill="#4d4d4d"/>
+    <g transform="matrix(.728594 .684945 -.054655 -.998505 0 0)">
+        <path d="M1.248-1233.748h53.025v16.518H1.248z" class="P" stroke-width="1" stroke="gray" fill="gray"/>
+    </g>
+    <g class="B D">
+        <path d="M61.596 1199.354l51.218 47.17m2646.744 39.59l47.17-51.22m-48.386 12.915l47.17-51.218" class="E"/>
+        <g class="C">
+            <path d="M306.15 788.627v453.344m-.004-1195.644V498.4m2120.332 356.44L2628 752.637m-394.08-228.34l202-91.214"/>
+            <path d="M2630.016 534.473L2427.528 432.86m7.915 422.367l-200.415-115.003"/>
+            <path d="M2623.4 752.885v-217.71M2240.334 748.02V515.728"/>
+        </g>
+    </g>
+    <g transform="scale(-1)">
+        <circle cy="-644.239" class="C" stroke-width="1" cx="-2431.41" stroke="#666" r="88" fill="#fff"/>
+    </g>
+    <path d="M2613.503 753.437h194.792M2613.555 534.3h194.792" class="B D C"/>
+    <g class="M O">
+        <path d="M2708.112 501.053h86.11v86.11h-86.11z" fill="#fff200"/>
+        <path d="M2709.154 601.053h86.1v86.1h-86.1zm0-200h86.1v86.1h-86.1z" fill="#39b54a"/>
+    </g>
+    <path d="M2024.417 239.494v800H1676v-800z" fill="#1a1a1a"/>
+    <path d="M2024.417 239.494v800h-38.86v-800z" fill="#2a2a29"/>
+    <path d="M1714.862 239.494v800H1676v-800z" fill="#595959"/>
+    <path d="M2024.417 239.492H1676l38.86 38.86h270.695z" fill="#373737"/>
+    <path d="M2024.417 1039.493H1676l38.86-38.86h270.695z" fill="#474747"/>
+    <g fill="#404040">
+        <path d="M2024.417 239.494v800h-24.972v-800zm-323.444 0v800H1676v-800z"/>
+        <path d="M2024.417 239.494v24.972H1676v-24.972zm0 775.03v24.972H1676v-24.972z"/>
+    </g>
+    <path d="M1928.445 413.113v52.764h-52.764v-52.764z" class="F"/>
+    <use xlink:href="#B" class="G" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <use xlink:href="#C" class="H" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <use xlink:href="#C" class="I" x="-24.181" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <g class="J">
+        <use xlink:href="#D" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+        <use xlink:href="#E" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </g>
+    <path d="M1928.445 513.112v52.764h-52.764v-52.764z" class="F"/>
+    <use y="100" xlink:href="#B" class="G" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <use y="100" xlink:href="#C" class="H" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <use y="100" xlink:href="#C" class="I" x="-24.181" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <g class="J">
+        <use y="100" xlink:href="#D" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+        <use y="100" xlink:href="#E" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </g>
+    <path d="M1928.445 613.11v52.764h-52.764V613.11z" class="F"/>
+    <use y="199.998" xlink:href="#B" class="G" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <use y="199.998" xlink:href="#C" class="H" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <use y="199.998" xlink:href="#C" class="I" x="-24.181" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <g class="J">
+        <use y="200.001" xlink:href="#D" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+        <use y="200.001" xlink:href="#E" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </g>
+    <path d="M1928.445 713.112v52.764h-52.764v-52.764z" class="F"/>
+    <use y="300" xlink:href="#B" class="G" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <use y="300" xlink:href="#C" class="H" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <use y="300" xlink:href="#C" class="I" x="-24.181" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <g class="J">
+        <use y="300" xlink:href="#D" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+        <use y="300.001" xlink:href="#E" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </g>
+    <path d="M1928.445 813.11v52.764h-52.764V813.11z" class="F"/>
+    <use y="399.998" xlink:href="#B" class="G" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <use y="399.998" xlink:href="#C" class="H" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <use y="399.998" xlink:href="#C" class="I" x="-24.181" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <g class="J">
+        <use y="400.001" xlink:href="#D" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+        <use y="400.001" xlink:href="#E" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </g>
+    <path d="M1828.445 413.113v52.764h-52.764v-52.764z" class="F"/>
+    <use xlink:href="#B" class="G" x="-100" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <use xlink:href="#C" class="H" x="-100" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <use xlink:href="#C" class="I" x="-124.181" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <g class="J">
+        <use xlink:href="#D" x="-100" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+        <use xlink:href="#E" x="-100" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </g>
+    <path d="M1828.445 513.112v52.764h-52.764v-52.764z" class="F"/>
+    <use y="100" xlink:href="#B" class="G" x="-100" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <use y="100" xlink:href="#C" class="H" x="-100" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <use y="100" xlink:href="#C" class="I" x="-124.181" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <g class="J">
+        <use y="100" xlink:href="#D" x="-100" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+        <use y="100" xlink:href="#E" x="-100" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </g>
+    <path d="M1828.445 613.11v52.764h-52.764V613.11z" class="F"/>
+    <use y="199.998" xlink:href="#B" class="G" x="-100" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <use y="199.998" xlink:href="#C" class="H" x="-100" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <use y="199.998" xlink:href="#C" class="I" x="-124.181" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <g class="J">
+        <use y="200.001" xlink:href="#D" x="-100" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+        <use y="200.001" xlink:href="#E" x="-100" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </g>
+    <path d="M1828.445 713.112v52.764h-52.764v-52.764z" class="F"/>
+    <use y="300" xlink:href="#B" class="G" x="-100" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <use y="300" xlink:href="#C" class="H" x="-100" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <use y="300" xlink:href="#C" class="I" x="-124.181" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <g class="J">
+        <use y="300" xlink:href="#D" x="-100" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+        <use y="300.001" xlink:href="#E" x="-100" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </g>
+    <path d="M1828.445 813.11v52.764h-52.764V813.11z" class="F"/>
+    <use y="399.998" xlink:href="#B" class="G" x="-100" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <use y="399.998" xlink:href="#C" class="H" x="-100" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <use y="399.998" xlink:href="#C" class="I" x="-124.181" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    <g class="J">
+        <use y="400.001" xlink:href="#D" x="-100" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+        <use y="400.001" xlink:href="#E" x="-100" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </g>
+    <path d="M1743.92 555.445v168.097H1676V555.445z" fill="#1a1a1a"/>
+    <g class="N" fill="#b3b3b3">
+        <circle cy="1139.87" class="C" cx="1850.907" r="60"/>
+        <circle cy="1138.828" class="E" cx="1851.949" r="24"/>
+        <circle cy="145.077" class="C" cx="1851.949" r="60"/>
+        <circle cy="145.077" class="E" cx="1851.949" r="24"/>
+    </g>
+    <g class="B D">
+        <path d="M63.438 46.817v45.208" class="E"/>
+        <g class="C">
+            <path d="M2032.417 125.9h520.833m-471.874 438.427h160.417M2077.2 431.025h241.667m-286.46-152.93h291.667"/>
+            <path d="M2087.085 574.317V420.15m226.665 20.834V269.1m-271.395 18.75V123.275m508.578 368.75V43.066M2313.25 126.4V52.443m-280.832 1100.49h520.834"/>
+            <path d="M2078.25 685.67h160.417M2081.38 847.65h241.666"/>
+            <path d="M2032.417 996.942H2322m-234.322-303.875V856.6"/>
+            <path d="M2313.753 836.818v171.875M2042.417 988.9v164.584m508.333-360.417v448.96m-237.495-405.21v171.875m-1.045 133.333v100M1661.588 125.87H305.338"/>
+        </g>
+    </g>
+    <path d="M1243.245 43.9h78.343v35.773h-78.343zm0 42.566h78.343v35.773h-78.343z" class="M Q" fill="red"/>
+    <path d="M1611.588 575.146h-993.75" class="B C D"/>
+    <text y="191.439" class="K L" x="1380.083">B/C</text>
+    <path d="M1611.588 430.984h-1075" class="B C D"/>
+    <text y="253.721" class="K L" x="1377.713">CAL</text>
+    <path d="M1648.046 278.973H536.587m1065.205 305.76v-163.54" class="B C D"/>
+    <path d="M1494.807 123.217h156.178v156.178h-156.178z" stroke-width="17.781" class="M" fill="#fff"/>
+    <g class="B D">
+        <path d="M1369 114.534v173.96" class="E"/>
+        <path d="M545.88 440.984V269.1m1105.917 19.8V124.317M546.38 440.984V269.1m0-143.75V51.4m1101.662 1101.46H305.333" class="C"/>
+    </g>
+    <path d="M1243.245 1149.73h78.343v35.773h-78.343zm0 42.57h78.343v35.773h-78.343z" class="M Q" fill="red"/>
+    <g class="B C D">
+        <path d="M1611.583 685.67h-993.75m993.75 161.98h-1075"/>
+        <path d="M1656.375 999.755H536.583m1065.21-324.397V857.65"/>
+        <path d="M545.876 837.86v171.875m1106.41-19.793v172.917m-1105.913-325v171.875m.006 138.54v105.208"/>
+    </g>
+    <path d="M80.44 744.314V544.106" stroke-width="24" class="N" fill="#999"/>
+    <g class="B C D">
+        <path d="M440.848 854.85L239.316 752.638m394.082-228.34l-202-91.214"/>
+        <path d="M237.3 534.473L439.8 432.86m-7.917 422.367l200.415-115.003"/>
+        <path d="M243.927 752.885v-217.71M626.992 748.02V515.728"/>
+    </g>
+    <g transform="scale(1 -1)">
+        <circle cy="-644.239" class="C" stroke-width="1" cx="435.917" stroke="#666" r="88" fill="#fff"/>
+    </g>
+    <path d="M253.823 753.437H59.03M253.77 534.3H58.98" class="B D C"/>
+    <path d="M2701.167 192.025h100v100h-100z"/>
+    <path d="M2702.21 994.11h100v100h-100z" fill="red"/>
+    <path d="M71.875 192.317h100v100h-100z" fill="#0f0"/>
+    <path d="M72 994.11h100v100H72z" fill="#fff"/>
+    <text y="1064.274" class="K L" x="74.513">M+</text>
+    <text y="259.572" class="K L" x="78.196">M-</text>
+    <text y="263.981" class="K L" x="2568.245">GND</text>
+    <text y="1065.023" class="K L" x="2568.245">+Vin</text>
+    <text y="458.773" class="K L" x="2568.245">CAN</text>
+    <defs>
+        <path d="M1918.028 423.53v31.93h-31.93v-31.93z" id="B"/>
+        <path d="M1918.028 423.53v31.93h-7.75v-31.93z" id="C"/>
+        <path d="M1918.028 423.527h-31.93l7.75 7.75h16.43z" id="D"/>
+        <path d="M1918.028 455.457h-31.93l7.75-7.75h16.43z" id="E"/>
+    </defs>
+</svg>
