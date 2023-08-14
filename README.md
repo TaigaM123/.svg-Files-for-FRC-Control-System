@@ -1,7 +1,7 @@
 # .svg-Files-for-FRC-Control-System
 Components for the FIRST Robotics Competition, in .svg format. Use these to make wiring diagrams. 
 
-Many files (all modified or added parts in commit #30) are taken from https://github.com/AronRubin/FRCFritzingParts. Thank you AronRubin!
+Many files (all modified or added parts in commit a379937) are taken from https://github.com/AronRubin/FRCFritzingParts. Thank you AronRubin!
 
 ## How to convert .step files to .svg files
 For files not from AronRubin, I used the following process.
@@ -26,5 +26,5 @@ Required apps:
 9. Head back to the TechDraw, and right-click on the work area (yes, it might be blank), and select "Export as SVG". 
 10. Name your SVG and hit "Export"
     1. Depending on your OS, you might need to manually append ".svg" to the file name. 
-11. Open the file in Inkscape and shrink it down so it fits into the rectangle between (0,0) and (300,150). (Drag a corner while hitting Ctrl). Save this. 
-12. Repeat these steps (skipping step 6) as many times as needed.
+11. Open the file in Inkscape and shrink it down so it fits into the rectangle between (0,0) and (300,150). (Drag a corner while holding Ctrl). Save this.
+12. Repeat these steps (skipping steps 5 and 6) as many times as needed.
