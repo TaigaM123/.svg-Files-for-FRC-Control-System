@@ -1,7 +1,7 @@
 # .svg-Files-for-FRC-Control-System
 Components for the FIRST Robotics Competition, in .svg format. Use these to make wiring diagrams. 
 
-Many files (all modified or added parts in commit a379937) are taken from https://github.com/AronRubin/FRCFritzingParts. Thank you AronRubin!
+Many files (all modified or added parts in commit a379937) are taken from https://github.com/AronRubin/FRCFritzingParts (MIT). Thank you AronRubin!
 
 ## How to convert .step files to .svg files
 For files not from AronRubin, I used the following process.
